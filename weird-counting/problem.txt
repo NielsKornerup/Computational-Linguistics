@@ -1,0 +1,20 @@
+Kyle has invented a new language! Here are the numbers one through 16. What is nalazofa in base 10?
+
+zo
+fa
+fazo
+la
+fazozo
+fafa
+fazozozo
+sa
+lazo
+fazofa
+fazozozozo
+fala
+fazozozozozo
+fazozofa
+fafazo
+na
+
+Hint: Computational Linguistics is a very interesting field. Try looking for patterns in the counting system.
